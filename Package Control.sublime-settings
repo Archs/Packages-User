@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"FileDiffs",
+		"Git",
+		"GoSublime",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"orgmode",
+		"Table Editor",
+		"Terminal",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Todo",
+		"TodoReview"
+	]
+}

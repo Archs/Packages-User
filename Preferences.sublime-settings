@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"font_face": "AR PL UKai CN",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"itg_xsmall_tabs": true,
+	"theme": "itg.flat.dark.sublime-theme"
+}
