@@ -4,15 +4,13 @@
 		"Alignment",
 		"FileDiffs",
 		"Git",
+		"GitGutter",
 		"GoSublime",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"orgmode",
 		"Table Editor",
 		"Terminal",
-		"Theme - itg.flat",
-		"Theme - Soda",
-		"Todo",
-		"TodoReview"
+		"Theme - itg.flat"
 	]
 }
