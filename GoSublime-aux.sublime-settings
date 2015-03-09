@@ -1,9 +1,74 @@
 {
+	"9o.hist./home/sun/bucket/datacontrol/src/se":
+	[
+		"go env",
+		"go build"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/se/db":
+	[
+		"go install"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/se/engine":
+	[
+		"go install"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/se/engine/sougou":
+	[
+		"go install",
+		"go build"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/se/req":
+	[
+		"go build",
+		"go install"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/spider/cmds/test":
+	[
+		"go env"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/spider/engine/weixin":
+	[
+		"go env"
+	],
+	"9o.hist./home/sun/bucket/datacontrol/src/wechat/utils/debug":
+	[
+		"go install"
+	],
 	"9o.hist./home/sun/bucket/datacontrol/wechat/db/customer":
 	[
 		"go install -x ."
 	],
+	"9o.hist./home/sun/bucket/src/datacontrol/spider":
+	[
+		"datacontrol/spider",
+		"build"
+	],
+	"9o.hist./home/sun/bucket/src/datacontrol/spider/cmds/baidusearch/proxy":
+	[
+		"build"
+	],
+	"9o.hist./home/sun/bucket/src/datacontrol/spider/proxy":
+	[
+		"go install"
+	],
+	"9o.hist./home/sun/bucket/workshop/src/github.com/Archs/go-avalon":
+	[
+		"build"
+	],
+	"9o.hist./home/sun/bucket/workshop/src/github.com/Archs/go-avalon/test/static":
+	[
+		"go env"
+	],
+	"9o.hist./home/sun/bucket/workshop/src/utils/w32api":
+	[
+		"go env",
+		"env"
+	],
+	"9o.hist./home/sun/tmp":
+	[
+		"go env"
+	],
 	"ann": "a14.02.25-1",
-	"install_version": "r13.12.26-3",
-	"version": "r13.12.26-3"
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
 }

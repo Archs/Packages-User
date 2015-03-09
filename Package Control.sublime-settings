@@ -1,16 +1,29 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"ColorPicker",
+		"Dockerfile Syntax Highlighting",
 		"FileDiffs",
-		"Git",
 		"GitGutter",
+		"GitSavvy",
 		"GoSublime",
+		"HTMLBeautify",
+		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"orgmode",
+		"Package Control",
+		"Scheme",
+		"SublimeCodeIntel",
+		"SublimeREPL",
 		"Table Editor",
 		"Terminal",
 		"Theme - itg.flat"
+	],
+	"repositories":
+	[
 	]
 }

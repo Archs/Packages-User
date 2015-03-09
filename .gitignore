@@ -6,3 +6,21 @@ Package Control.cache/
 Package Control.ca-certs/
 bin/
 GoSublime/
+
+# added by GitSavvy
+/.SublimeREPLHistory/
+
+# added by GitSavvy
+/Git.sublime-settings
+
+# added by GitSavvy
+/Lisp.sublime-settings
+
+# added by GitSavvy
+/Package Control.merged-ca-bundle
+
+# added by GitSavvy
+/Package Control.user-ca-bundle
+
+# added by GitSavvy
+/GitSavvy/

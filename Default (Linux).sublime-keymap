@@ -1,0 +1,15 @@
+[
+	{ "keys": ["shift+ctrl+space"], "command": "code_intel_auto_complete" },
+	{ "keys": ["alt+ctrl+j"], "command": "goto_python_definition", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.python" }
+        ]
+	},
+	{ "keys": ["alt+ctrl+k"], "command": "back_to_python_definition"},
+	{ "keys": ["alt+ctrl+j"], "command": "nim_update_completions", "context":
+        [
+            { "key": "auto_complete_visible" },
+            { "key": "selector", "operator": "equal", "operand": "source.nim" }
+        ]
+    }
+]

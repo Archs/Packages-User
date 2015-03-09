@@ -1,0 +1,22 @@
+{
+	 "codeintel_language_settings": {
+        "Python": {
+            "python": "~/.anaconda/envs/py3/bin/python",
+            "codeintel_scan_extra_dir": [
+                "~/.anaconda/envs/py3/lib",
+                "~/.anaconda/envs/py3/lib/python3.4",
+                "~/.anaconda/envs/py3/lib/python3.4/site-packages",
+                "/opt/sublime_text",
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        },
+        "JavaScript": {
+            "codeintel_scan_extra_dir": [],
+            "codeintel_scan_exclude_dir":["/build/", "/min/"],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_max_recursive_dir_depth": 2,
+            "codeintel_selected_catalogs": ["jQuery"]
+        },
+    }
+}
