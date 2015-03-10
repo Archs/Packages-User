@@ -1,44 +1,49 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_face": "AR PL UKai CN",
-	"font_size": 14,
-	"ignored_packages":	[
-		"Theme - itg.flat",
-		"FileDiffs",
-		"Markdown Preview",
-		"Markdown"
+	"file_exclude_patterns":
+	[
+		"*.log",
+		"*.o",
+		"*.exe",
+		"*.lib",
+		"*.pdb",
+		"*.sublime-*",
+		"*.orig",
+		"*.hgtags",
+		"*.syso",
+		"*.project",
+		"*.pydevproject"
 	],
-	"itg_xsmall_tabs": true,
-	"update_check": false,
-	"file_exclude_patterns":[
-	    "*.log",
-	    "*.o",
-	    "*.exe",
-	    "*.lib",
-	    "*.pdb",
-	    "*.sublime-*",
-	    "*.orig",
-	    "*.hgtags",
-	    "*.syso",
-	    "*.project", "*.pydevproject",
-	],
-	"folder_exclude_patterns":[
+	"folder_exclude_patterns":
+	[
 		"nimcache",
 		"build",
 		".git",
 		".hg",
 		".settings"
 	],
-	"index_exclude_patterns":[
-	    "*.log",
-	    "*.o",
-	    ".git/*",
-	    ".hg/*",
-	    "*.exe",
-	    "*.lib",
-	    "*.pdb",
-	    "*.syso",
-	    "*.min.js",
-	    "*.min.css",
+	"font_face": "AR PL UKai CN",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Theme - itg.flat",
+		"Markdown Preview",
+		"Markdown",
+		"FileDiffs"
 	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.o",
+		".git/*",
+		".hg/*",
+		"*.exe",
+		"*.lib",
+		"*.pdb",
+		"*.syso",
+		"*.min.js",
+		"*.min.css"
+	],
+	"itg_xsmall_tabs": true,
+	"update_check": false
 }
