@@ -26,9 +26,8 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Theme - itg.flat",
-		"Markdown Preview",
 		"Markdown",
+		"Markdown Preview",
 		"FileDiffs"
 	],
 	"index_exclude_patterns":
@@ -45,5 +44,7 @@
 		"*.min.css"
 	],
 	"itg_xsmall_tabs": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
 	"update_check": false
 }
