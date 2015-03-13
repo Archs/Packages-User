@@ -17,7 +17,6 @@
 	"folder_exclude_patterns":
 	[
 		"nimcache",
-		"build",
 		".git",
 		".hg",
 		".settings"
@@ -26,8 +25,8 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Markdown Preview",
+		"Markdown",
 		"FileDiffs"
 	],
 	"index_exclude_patterns":
@@ -36,6 +35,7 @@
 		"*.o",
 		".git/*",
 		".hg/*",
+		"build/*",
 		"*.exe",
 		"*.lib",
 		"*.pdb",
