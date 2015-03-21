@@ -11,6 +11,8 @@
 		"*.orig",
 		"*.hgtags",
 		"*.syso",
+		"*.orig",
+		"*.ORIG",
 		"*.project",
 		"*.pydevproject"
 	],
@@ -21,13 +23,13 @@
 		".hg",
 		".settings"
 	],
-	"font_face": "AR PL UKai CN",
+	"font_face": "Droid Sans Mono",
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Markdown Preview",
+		"FileDiffs",
 		"Markdown",
-		"FileDiffs"
+		"Markdown Preview"
 	],
 	"index_exclude_patterns":
 	[
