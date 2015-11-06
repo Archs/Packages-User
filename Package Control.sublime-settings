@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"EncodingHelper",
+		"Foundation 5 Snippets",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Status Bar File Size",
+		"Terminal"
+	],
+	"repositories":
+	[
+		"https://github.com/Varriount/NimLime"
+	]
+}

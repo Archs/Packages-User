@@ -1,0 +1,8 @@
+[
+    { "keys": ["ctrl+space"], "command": "nim_update_completions", "context":
+        [
+            { "key": "auto_complete_visible" },
+            { "key": "selector", "operator": "equal", "operand": "source.nim" }
+        ]
+    }
+]
