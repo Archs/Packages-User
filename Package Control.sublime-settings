@@ -20,6 +20,24 @@
 	],
 	"repositories":
 	[
-		"https://github.com/Varriount/NimLime"
-	]
+		"https://github.com/Varriount/NimLime",
+		"Alignment",
+		"ColorPicker",
+		"Dockerfile Syntax Highlighting",
+		"FileDiffs",
+		"GitGutter",
+		"GitSavvy",
+		"GoSublime",
+		"HTMLBeautify",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Scheme",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Table Editor",
+		"Terminal",
+		"Theme - itg.flat"
+	],
 }

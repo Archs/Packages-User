@@ -1,34 +1,60 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"file_exclude_patterns":
-	[
-		"*.log",
-		"*.o",
-		"*.exe",
-		"*.lib",
-		"*.pdb",
-		"*.sublime-*",
-		"*.orig",
-		"*.hgtags",
-		"*.syso",
-		"*.orig",
-		"*.ORIG",
-		"*.project",
-		"*.pydevproject"
-	],
-	"folder_exclude_patterns":
-	[
-		"nimcache",
-		".git",
-		".hg",
-		".settings"
-	],
-	"font_size": 11,
+	"itg_xsmall_tabs": true,
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"default_line_ending": "unix",
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+    "font_size": 12,
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+    "itg_xsmall_tabs": true,
+    "update_check": false,
 	"ignored_packages":
 	[
 		"FileDiffs",
 		"Markdown"
 	],
+    "file_exclude_patterns":
+    [
+        "*.log",
+        "*.o",
+        "*.exe",
+        "*.lib",
+        "*.pdb",
+        "*.sublime-*",
+        "*.orig",
+        "*.hgtags",
+        "*.syso",
+        "*.orig",
+        "*.ORIG",
+        "*.project",
+        "*.pydevproject",
+    ],
+    "folder_exclude_patterns":
+    [
+        "nimcache",
+        ".git",
+        ".hg",
+        ".settings"
+    ],
+    "index_exclude_patterns":
+    [
+        "*.log",
+        "*.o",
+        ".git/*",
+        ".hg/*",
+        "build/*",
+        "*.exe",
+        "*.lib",
+        "*.pdb",
+        "*.syso",
+        "*.min.js",
+        "*.min.css"
+    ],
 	"index_exclude_patterns":
 	[
 		"*.log",
@@ -43,12 +69,4 @@
 		"*.min.js",
 		"*.min.css"
 	],
-	"itg_xsmall_tabs": true,
-	"show_encoding": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"update_check": false,
-	"default_line_ending": "unix",
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
 }

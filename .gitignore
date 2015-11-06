@@ -1,2 +1,27 @@
+GoSublime-aux.sublime-settings
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
 Package Control.cache/
+Package Control.ca-certs/
+bin/
 GoSublime/
+
+# added by GitSavvy
+/.SublimeREPLHistory/
+
+# added by GitSavvy
+/Git.sublime-settings
+
+# added by GitSavvy
+/Lisp.sublime-settings
+
+# added by GitSavvy
+/Package Control.merged-ca-bundle
+
+# added by GitSavvy
+/Package Control.user-ca-bundle
+
+# added by GitSavvy
+/GitSavvy/
