@@ -1,17 +1,11 @@
 {
-	"itg_xsmall_tabs": true,
 	"show_encoding": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"update_check": false,
 	"default_line_ending": "unix",
 	"trim_trailing_white_space_on_save": true,
 	"ensure_newline_at_eof_on_save": true,
     "font_size": 12,
-	"show_encoding": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-    "itg_xsmall_tabs": true,
     "update_check": false,
 	"ignored_packages":
 	[
