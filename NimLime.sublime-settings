@@ -1,4 +1,4 @@
 {
     "provide_immediate_nim_completions": true,
-    "check.on_save.enabled": false,
+    // "check.on_save.enabled": false,
 }

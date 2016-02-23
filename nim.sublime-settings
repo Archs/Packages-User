@@ -1,8 +1,6 @@
 {
-    "translate_tabs_to_spaces": true,
-    "enable_nim_completions": true,
-    "provide_immediate_nim_completions": false,
-    "check_nim_on_save": true,
-    "nim_compiler_executable": "nim",
-    "auto_complete_triggers": [ {"selector": "source.nim", "characters": "."} ]
+	"extensions":
+	[
+		"nim"
+	]
 }

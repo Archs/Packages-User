@@ -1,54 +1,35 @@
 {
-	"show_encoding": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
 	"default_line_ending": "unix",
-	"trim_trailing_white_space_on_save": true,
 	"ensure_newline_at_eof_on_save": true,
-    "font_size": 12,
-    "update_check": false,
+	"file_exclude_patterns":
+	[
+		"*.log",
+		"*.o",
+		"*.exe",
+		"*.lib",
+		"*.pdb",
+		"*.sublime-*",
+		"*.orig",
+		"*.hgtags",
+		"*.syso",
+		"*.orig",
+		"*.ORIG",
+		"*.project",
+		"*.pydevproject"
+	],
+	"folder_exclude_patterns":
+	[
+		"nimcache",
+		".git",
+		".hg",
+		".settings"
+	],
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"FileDiffs",
 		"Markdown"
 	],
-    "file_exclude_patterns":
-    [
-        "*.log",
-        "*.o",
-        "*.exe",
-        "*.lib",
-        "*.pdb",
-        "*.sublime-*",
-        "*.orig",
-        "*.hgtags",
-        "*.syso",
-        "*.orig",
-        "*.ORIG",
-        "*.project",
-        "*.pydevproject",
-    ],
-    "folder_exclude_patterns":
-    [
-        "nimcache",
-        ".git",
-        ".hg",
-        ".settings"
-    ],
-    "index_exclude_patterns":
-    [
-        "*.log",
-        "*.o",
-        ".git/*",
-        ".hg/*",
-        "build/*",
-        "*.exe",
-        "*.lib",
-        "*.pdb",
-        "*.syso",
-        "*.min.js",
-        "*.min.css"
-    ],
 	"index_exclude_patterns":
 	[
 		"*.log",
@@ -63,4 +44,10 @@
 		"*.min.js",
 		"*.min.css"
 	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"default_line_ending": "unix"
 }

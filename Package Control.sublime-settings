@@ -14,6 +14,7 @@
 		"HTML-CSS-JS Prettify",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"NimLime",
 		"Package Control",
 		"Status Bar File Size",
 		"Terminal"
@@ -38,6 +39,7 @@
 		"SublimeREPL",
 		"Table Editor",
 		"Terminal",
-		"Theme - itg.flat"
-	],
+		"Theme - itg.flat",
+		"https://github.com/Varriount/NimLime"
+	]
 }
